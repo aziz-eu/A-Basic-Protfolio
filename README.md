@@ -1,2 +1,2 @@
-# cv
-cv only using html. 1st assignment of the web dev coures.
+#A Basic Protfolio 
+My Protfolio only using html.
