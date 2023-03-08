@@ -1,2 +1,1 @@
-#A Basic Protfolio 
-My Protfolio only using html.
+#A Basic Protfolio - My Protfolio using html.
